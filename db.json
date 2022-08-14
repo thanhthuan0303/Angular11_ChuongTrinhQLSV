@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Thuan0303",
+      "gender": "male",
+      "class": "12",
+      "math": 5,
+      "chemistry": 5,
+      "physics": 5,
+      "ratings": 5
+    },
+    {
+      "id": 3,
+      "name": "thuan",
+      "gender": "male",
+      "class": "12",
+      "math": 5,
+      "chemistry": 5,
+      "physics": 5,
+      "ratings": 5
+    },
+    {
+      "id": 4,
+      "name": "ThanhThuan",
+      "gender": "male",
+      "class": "12",
+      "math": 5,
+      "chemistry": 6,
+      "physics": 2,
+      "ratings": 4.333333333333333
+    }
+  ],
+  "account": [
+    {
+      "user": "admin0303",
+      "password": "123456"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
